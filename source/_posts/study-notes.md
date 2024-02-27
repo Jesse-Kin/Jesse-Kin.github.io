@@ -1,7 +1,7 @@
 ---
 title: study-notes
 date: 2024-01-08 13:55:04
-tags: ['学习笔记']
+tags: ['leanning']
 ---
 # 学习笔记
 创建SpringBoot项目
