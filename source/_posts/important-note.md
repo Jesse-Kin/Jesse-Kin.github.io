@@ -1,7 +1,9 @@
 ---
-title: 重点笔记-反射
+title: important-note
+tags:
+  - notes
+abbrlink: 82a9810f
 date: 2024-01-10 09:03:58
-tags: ["notes"]
 ---
 # 反射概述
 ### 反射是什么

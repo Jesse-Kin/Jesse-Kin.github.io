@@ -1,7 +1,9 @@
 ---
 title: study-notes
+tags:
+  - leanning
+abbrlink: 188b5aa6
 date: 2024-01-08 13:55:04
-tags: ['leanning']
 ---
 # 学习笔记
 创建SpringBoot项目

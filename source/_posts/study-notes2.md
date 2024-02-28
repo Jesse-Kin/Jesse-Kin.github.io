@@ -1,7 +1,9 @@
 ---
-title: 学习笔记
+title: leanning
+tags:
+  - study
+abbrlink: 6a15de41
 date: 2024-01-09 09:13:23
-tags: ["study"]
 ---
 # Mybatis概述
 持久层 半自动ORM框架，
