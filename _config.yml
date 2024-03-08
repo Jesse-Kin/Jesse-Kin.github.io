@@ -111,6 +111,7 @@ theme: next
 deploy:
   type: git
   repo: https://github.com/Jesse-Kin/Jesse-Kin.github.io.git
+  # repo: git@github.com:Jesse-Kin/Jesse-Kin.github.io.git
   branch: main
   
 # 添加搜索功能
