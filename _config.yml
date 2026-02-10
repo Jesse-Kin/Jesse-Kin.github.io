@@ -17,7 +17,8 @@ timezone: ""
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://jesse-kin.github.io/
+root: /
 permalink: post/:abbrlink.html
 abbrlink:
   alg: crc32 # 算法：crc16(default) and crc32
@@ -111,9 +112,10 @@ theme: next
 deploy:
   type: git
   # repo: https://github.com/Jesse-Kin/Jesse-Kin.github.io.git
-  # repo: git@github.com:Jesse-Kin/Jesse-Kin.github.io.git
-  repo: git@github.com:Jesse-Kin/github-blog.git
-  branch: gh-pages
+  repo: git@github.com:Jesse-Kin/Jesse-Kin.github.io.git
+  # repo: git@github.com:Jesse-Kin/github-blog.git
+  branch: main
+  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
 
 # 添加搜索功能
 search:
