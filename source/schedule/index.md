@@ -1,4 +1,4 @@
 ---
-title: schedule
+title: Schedule
 date: 2024-02-27 20:28:08
 ---
