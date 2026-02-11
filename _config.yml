@@ -123,3 +123,9 @@ search:
   field: post
   format: html
   limit: 1000
+
+prism_plugin:
+  mode: "preprocess" # realtime/preprocess
+  theme: "default" # Prism.js 主题
+  line_number: false # 显示行号
+  exclude_languages: [] # 排除的语言
