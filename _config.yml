@@ -28,7 +28,6 @@ timezone: "Asia/Shanghai"
 url: https://jesse-kin.github.io/
 # 网站根目录
 root: /
-# 文章的永久链接格式
 permalink: post/:abbrlink.html
 abbrlink:
   alg: crc32 # 算法：crc16(default) and crc32
@@ -127,7 +126,7 @@ date_format: YYYY-MM-DD
 time_format: HH:mm:ss
 ## updated_option supports 'mtime', 'date', 'empty'
 # 当 Front Matter 中没有指定 updated 时 updated 的取值
-updated_option: "date"
+updated_option: "git"
 
 # Pagination
 ## Set per_page to 0 to disable pagination
