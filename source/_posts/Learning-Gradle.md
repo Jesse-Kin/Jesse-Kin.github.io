@@ -1,8 +1,9 @@
 ---
 title: 学习 Gradle
 abbrlink: 55f60165
-date: 2026-02-11 23:49:59
-tags:
+date: 2026-02-11T23:49:59.000Z
+tags: null
+updated: '2026-02-12 22:05:52 +08:00'
 ---
 
 ## 学习 Gradle
