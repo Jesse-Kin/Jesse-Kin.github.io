@@ -1,4 +1,9 @@
 {
+  "lint-staged":{
+    "*.{md,markdown}": [
+      "node scripts/update-updated-only-staged.js"
+    ]
+  },
   "name": "hexo-site",
   "version": "0.0.0",
   "private": true,
@@ -30,6 +35,8 @@
     "hexo-theme-landscape": "^1.0.0",
     "hexo-theme-next": "^8.19.1",
     "hexo-wordcount": "^6.0.1",
-    "js-yaml": "^4.1.1"
+    "husky": "^9.1.7",
+    "js-yaml": "^4.1.1",
+    "lint-staged": "^16.2.7"
   }
 }

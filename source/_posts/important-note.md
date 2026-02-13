@@ -1,10 +1,10 @@
 ---
-title: important-note
+title: Important-Note
 tags:
   - notes
 abbrlink: 82a9810f
 date: 2024-01-10T09:03:58.000Z
-updated: '2024-02-28 09:55:52 +08:00'
+updated: '2026-02-14 00:42:28'
 ---
 
 # 反射概述
@@ -112,3 +112,11 @@ ServletContext 服务器启动时创建，服务器关闭时销毁。
   + 转发是一次请求，可以使用request对象来共享数据
 # Mybatis概述
 持久层 半自动ORM框架
+
+
+
+
+
+
+
+
