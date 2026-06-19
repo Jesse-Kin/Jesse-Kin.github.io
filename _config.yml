@@ -152,11 +152,9 @@ theme: next
 # 部署部分的设置
 deploy:
   type: git
-  # repo: https://github.com/Jesse-Kin/Jesse-Kin.github.io.git
   repo: git@github.com:Jesse-Kin/Jesse-Kin.github.io.git
-  # repo: git@github.com:Jesse-Kin/github-blog.git
   branch: main
-  message: "Site updated: {{ now('YYYY-MM-DD HH:mm:ss') }}"
+  message: "Site updated: {{ now('MM-DD-YYYY HH:mm:ss') }}"
 
 # 添加搜索功能
 search:
