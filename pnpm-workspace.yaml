@@ -1,0 +1,5 @@
+allowBuilds:
+  core-js: set this to true or false
+  hexo-helper-live2d: set this to true or false
+  hexo-util: set this to true or false
+  live2d-widget: set this to true or false
